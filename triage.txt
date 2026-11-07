@@ -1,0 +1,5 @@
+VERDICT: MALICIOUS - EICAR test attachment (68 B) + lookalike phishing URL pattern, confirmed by live urlscan phishing scan
+EVIDENCE: VT hash 275a021bbfb6489e54d471899f7db9d1663fc695ec2fe2a2c4538aabf651fd0f = 68/70 vendors malicious | VT URL micr0soft-security[.]com/login = 0/92 unknown, not clean | urlscan phish scan tags phishing+malicious, domainAgeDays 0, IP 43.174.247.29
+IOCs: micr0soft-security[.]com | glad-silver-alhsglwo-dp2wc59l7hjr[.]edgeone[.]dev | 198.51.100.99 | 43.174.247.29 | AS139341 | 275a021bbfb6489e54d471899f7db9d1663fc695ec2fe2a2c4538aabf651fd0f
+ACTIONS: block domains+IPs on proxy/firewall, quarantine mail, force password reset if link clicked, hunt proxy+DNS 30 days for both domains, user awareness notice
+MITRE: T1566.001 Spearphishing Attachment + T1566.002 Spearphishing Link | M1017 User Training | M1021 Restrict Web Content

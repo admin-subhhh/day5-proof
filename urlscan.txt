@@ -1,0 +1,1 @@
+urlscan.io live scan https://example.com -> verdict no classification (clean), page IP 172.66.147.243, AS13335 CLOUDFLARENET, 1 domain/1 IP/2 HTTP transactions, scanned from IL, screenshot captured

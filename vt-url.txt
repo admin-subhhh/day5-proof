@@ -1,0 +1,1 @@
+VT URL lookup https://micr0soft-security.com/login -> 0/92 vendors, community score 0, status '-', last analysis 3 months ago = UNKNOWN not CLEAN (lookalike brand domain + login path = phishing pattern)

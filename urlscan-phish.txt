@@ -1,0 +1,1 @@
+urlscan.io phish scan https://urlscan.io/result/01a1b68c-a99d-716f-93dc-cb7c70ac74c7/ -> tags phishing/malicious, page glad-silver-alhsglwo-dp2wc59l7hjr[.]edgeone[.]dev IP 43.174.247.29 AS139341 (ACE-AS-AP, SG), domainAgeDays 0 (apex edgeone[.]dev 1451 days), 3 HTTP requests, title = Messenger_creation_....jpeg lure, screenshot shows fake Messenger image page
